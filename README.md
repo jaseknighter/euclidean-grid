@@ -15,14 +15,14 @@ A euclidean rhythm evenly spreads the notes within a sequence of steps. It was f
 The euclidean grid is composed of three basic elements:
 
 - tracks
-- the command line
-- the playhead line
+- the command lane
+- the playhead lane
 
 #### Tracks
 There are three tracks, each comprised of 16 buttons. Buttons that are part of a selected rhythm are lit. Buttons in each track also light up as the playhead passes through them.
 
-#### Command line
-The command line contains five control buttons: 
+#### Command lane
+The command lane contains five control buttons: 
 
 - **A** sets the total number of steps within each sequence
 - **B** sets the number of notes to be spread across the sequence
@@ -30,8 +30,8 @@ The command line contains five control buttons:
 - **D** sets the rotation of the sequence (i.e., the step in which the sequence begins)
 - **E** resets the sequence (when pressed in combination with button **C**)
 
-#### Playhead line
-The playhead line shows the position of the global playhead. 
+#### Playhead lane
+The playhead lane shows the position of the global playhead. 
 
 ### starting and stopping
 
