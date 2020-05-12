@@ -33,7 +33,7 @@ The command lane contains five control buttons:
 #### Playhead lane
 The playhead lane shows the position of the global playhead. 
 
-### starting and stopping
+### Starting and stopping
 
 #### Start/stop all tracks
 ![](images/2-start-stop-pause-all.png)
