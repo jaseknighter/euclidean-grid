@@ -1,5 +1,5 @@
 # euclidean-grid
-euclidean rhythm sequencer for the monome grid, built in max msp
+euclidean rhythm sequencer for the monome grid, built in max
 
 **created by**: [jonathan snyder](https://github.com/jaseknighter)
 
@@ -75,10 +75,10 @@ To set the rotation (when the first note begins in a sequence), simultaneously p
 
 To sync all tracks to the playhead, simultaneously press or release buttons  ***D*** and ***E***. 
 
-## Instructions for the max/msp patch
-![](images/euclidean_grid_maxmsp.png)
+## Instructions for the max patch
+![](images/euclidean_grid_max.png)
 
-The presentation view of the [euclidean grid max/msp patch](euclidean_grid_8x8.maxpat) provides the following controls:
+The presentation view of the [euclidean grid max patch](euclidean_grid_8x8.maxpat) provides the following controls:
 
 - grid ***device***: select the grid device to be used in the patch 
 - external ***clock source*** (optional): select an external clock source for the patch
