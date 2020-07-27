@@ -51,7 +51,7 @@ To start or stop a single track, simulatneously press or release button ***C*** 
 To set the number of steps in a sequence, simultaneously press or release button ***A*** along with the button that corresponds to the number of total steps you wish to set for the track. For example:
 
 - Simultaneously press or release buttons ***A*** and ***5*** to set Track 2 to 16 steps
-- Simultaneously press or release buttons ***A*** and ***3*** to set Track 2 to 10 steps
+- Simultaneously press or release buttons ***A*** and ***3*** to set Track 2 to 4 steps
 - Simultaneously press or release buttons ***A*** and ***4*** to set Track 2 to 9 steps
 
 #### Set the number of notes
