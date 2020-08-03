@@ -3,7 +3,7 @@ euclidean rhythm sequencer for the monome grid, built in max
 
 download the patch here: [euclidean_grid](euclidean_grid.maxpat)
 
-**created by**: [jonathan snyder](https://github.com/jaseknighter)
+created by: [jonathan snyder](https://github.com/jaseknighter)
 
 ## What is a euclidean rhythm?
 A euclidean rhythm evenly spreads the notes within a sequence of steps. It was first described by Godfried Toussaint in a 2005 paper [The Euclidean Algorithm Generates Traditional Musical Rhythms](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf).
