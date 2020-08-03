@@ -1,6 +1,8 @@
 # euclidean-grid
 euclidean rhythm sequencer for the monome grid, built in max
 
+download the patch here: [euclidean_grid](euclidean_grid.maxpat)
+
 **created by**: [jonathan snyder](https://github.com/jaseknighter)
 
 ## What is a euclidean rhythm?
@@ -91,8 +93,6 @@ The presentation view of the [euclidean grid max patch](euclidean_grid_8x8.maxpa
 - ***reset counters***: sync all tracks to the master playhead
 - ***reset track notes***: set all notes for each track to the note selected 
 - sliders: set the notes for each track (sliders of active notes are colored light blue) 
-
-Download the patch here: [euclidean_grid_8x8](euclidean_grid_8x8.maxpat)
 
 ## Credits
 - monome: [grid studies](https://monome.org/docs/grid/studies/max/)
