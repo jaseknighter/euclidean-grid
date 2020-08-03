@@ -107,7 +107,7 @@ MAX
 ## Credits
 - monome: [grid studies](https://monome.org/docs/grid/studies/max/)
 - okyeron: [neotrellis monome compatible grid](https://github.com/okyeron/neotrellis-monome)
-- Raja:[Raja'sLilMonomaxTutorial](https://llllllll.co/t/grid-led-row-grid-led-col-grid-led-map-confused/1940/10)
+- Raja: [Raja'sLilMonomaxTutorial](https://llllllll.co/t/grid-led-row-grid-led-col-grid-led-map-confused/1940/10)
 - 11olsen: [Euclidean algorithm patch](http://www.11olsen.de/code/max-objects/11euclidean)
 - Source Audio: [Midi clock](https://cycling74.com/forums/slave-max-to-elektron-midi-clock)
 - RKNLA: [BPM calculator](https://cycling74.com/forums/how-can-i-take-the-bpm-from-'bang')
