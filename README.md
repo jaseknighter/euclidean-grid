@@ -94,6 +94,16 @@ The presentation view of the [euclidean grid max patch](euclidean_grid_8x8.maxpa
 - ***reset track notes***: set all notes for each track to the note selected 
 - sliders: set the notes for each track (sliders of active notes are colored light blue) 
 
+## Ideas for future enhancements ##
+General
+- Chaining, accenting, and masking
+- Set BPM from the grid
+- Set midi channel from the grid
+
+MAX
+- Ableton Link integration
+- Replace custom metering with Max’s build-in transport object
+
 ## Credits
 - monome: [grid studies](https://monome.org/docs/grid/studies/max/)
 - okyeron: [neotrellis monome compatible grid](https://github.com/okyeron/neotrellis-monome)
