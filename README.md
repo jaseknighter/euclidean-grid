@@ -49,7 +49,7 @@ To stop or start all tracks, press or release buttons ***A*** and ***C*** at the
 #### Start/stop a single track
 ![](images/3-start-stop-pause-one-track.png)
 
-To start or stop a single track, simulatneously press or release button ***C*** along with the first button of the track you wish to start or stop (button ***1***, ***2***, or ***3***)
+To start or stop a single track, simultaneously press or release button ***C*** along with the first button of the track you wish to start or stop (button ***1***, ***2***, or ***3***)
 
 #### Set the number of steps
 ![](images/4-set-steps.png)
