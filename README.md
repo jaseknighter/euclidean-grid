@@ -79,7 +79,7 @@ To set the rotation (when the first note begins in a sequence), simultaneously p
 #### Sync all tracks to the master playhead
 ![](images/7-sync-tracks-to-playhead.png)
 
-To sync all tracks to the playhead, simultaneously press or release buttons  ***D*** and ***E***. 
+To sync all tracks to the playhead, simultaneously press or release buttons  ***C*** and ***E***. 
 
 ## Instructions for the max patch
 ![](images/euclidean_grid_max.png)
